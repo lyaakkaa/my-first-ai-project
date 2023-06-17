@@ -1,4 +1,4 @@
-#Next.js Starter
+#Next.js Starter💫
 
 This is a starting point for your AI Next.js project. It comes with a landing page, user authentication, and a chatbot UI hooked up to the OpenAI API.
 
